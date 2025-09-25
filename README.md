@@ -36,19 +36,4 @@ I’ve been recognized 3 times as **Best Supervisor of the Year**, and I’m pas
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 📧 Email: youremail@example.com
-
----
-
-> "Leadership is not about being in charge. It's about taking care of those in your charge." – Simon Sinek
-🛠️ Optional Enhancements
-You can further enhance your profile by:
-
-Adding GitHub contribution stats (even if you're not a developer):
-
-markdown
-Copy code
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-Adding activity like blogs, certifications, or projects related to operations, if any.
 
