@@ -1,21 +1,23 @@
-<h1 align="center">👋 Hi, I'm Chandan Singh </h1>
-<h3 align="center">Senior Team Leader | Operations | Data-Driven Problem Solver</h3>
+<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h3 align="center">Senior Team Leader | Operations | Data-Driven Problem Solver | People-First Leader</h3>
 
 ---
 
 ## 🏆 About Me  
 
 🌟 **3× Best Supervisor of the Year**  
-📊 Data Analysis | 🧩 Problem Solving | 👥 People Management | 📈 Performance Optimization  
+📊 **Operational Excellence | Project Management | Strategic Leadership**  
 
-I am an experienced **Senior Team Leader – Operations** with a passion for **driving efficiency, leading teams, and turning data into actionable insights**.  
-I thrive on solving operational challenges and building high-performing, motivated teams.  
+I am an experienced **Senior Team Leader – Operations** with a passion for **driving efficiency, mentoring teams, and delivering results across multiple industries** including **E-commerce, Supply Chain, Travel, Food Delivery, and Insurance**.  
+
+I combine **data analysis, business understanding, and people management** to solve complex problems and build **high-performing, motivated teams**.  
 
 ---
 
-## 💼 Tools & Technologies  
+## 🛠️ Tools & Skills  
 
 <p align="center">
+  <!-- Core Tools -->
   <img src="https://img.shields.io/badge/Amazon%20Connect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amadeus-0072CE?style=for-the-badge&logo=amadeus&logoColor=white"/>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
@@ -24,6 +26,24 @@ I thrive on solving operational challenges and building high-performing, motivat
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 </p>
+
+### 💡 Professional Skills  
+- 🎤 **Presentation Skills** – Clear, persuasive, and executive-level communication  
+- 💬 **Communication Skills** – Building trust & collaboration across teams and stakeholders  
+- 📑 **Project Management** – Waterfall & Agile methodology experience  
+- 🎯 **4D Coaching Model** – Define, Discover, Develop, Deliver for performance growth  
+- 🧠 **Problem-Solving & Root Cause Analysis** – Process optimization & resolution  
+
+---
+
+## 🌍 Industry Experience  
+
+| Industry | Contribution |
+|--------|---------------|
+| **E-commerce & Supply Chain** | Streamlined order processing, reduced fulfillment errors by 15%, optimized resource allocation |
+| **Travel** | Managed Amadeus workflows, improved issue resolution speed for bookings & cancellations |
+| **Food Delivery** | Enhanced escalation process, improving customer experience metrics (CSAT +20%) |
+| **Insurance** | Supported claims and policy servicing operations, reducing turnaround time |
 
 ---
 
@@ -56,13 +76,15 @@ I thrive on solving operational challenges and building high-performing, motivat
 ✅ **Reduced Resolution Time by 15%** – Streamlined workflows and optimized processes  
 ✅ **Mentored 20+ Team Members** – Built future leaders and SMEs  
 ✅ **Designed Data-Driven Dashboards** – Enabled faster business decisions  
+✅ **Cross-Industry Expertise** – Successfully led projects in E-commerce, Travel, Food Delivery & Insurance  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -70,10 +92,10 @@ I thrive on solving operational challenges and building high-performing, motivat
 ## 📬 Let's Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+  <a href="www.linkedin.com/in/chandan-singh-a02aa8208" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:singhchandan9520@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/yourusername">
@@ -83,4 +105,5 @@ I thrive on solving operational challenges and building high-performing, motivat
 
 ---
 
-⭐ **Fun Fact:** I believe in **"Leading by Example"** – combining data, technology, and empathy to create teams that perform beyond expectations.
+⭐ **Leadership Philosophy:**  
+*"I lead with data, empathy, and structure — using the 4D coaching model (Define, Discover, Develop, Deliver) to empower teams and achieve operational excellence."*
