@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Chandan Singh
 **Senior Team Leader | Operations | People Management | Data-Driven Decision Maker**
 
 ---
