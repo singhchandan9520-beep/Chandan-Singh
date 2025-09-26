@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h1 align="center">👋 Hi, I'm Chandan Singh</h1>
 <h3 align="center">Senior Team Leader | Operations | Data-Driven Problem Solver | People-First Leader</h3>
 
 ---
